@@ -8,6 +8,7 @@ namespace bitmathlib {
     int bitwise_multiply(int a, int b);
     int bitwise_divide(int a, int b);
     int bitwise_exponent(int a, int b);
+    int bitwise_sqrt(int n);
 }
 
 #endif
