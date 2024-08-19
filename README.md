@@ -1,6 +1,6 @@
 # bitmathlib
 
-to use just inlcude:
+to use just include:
 
 ```c++
 #include "bitmathlib.h"
