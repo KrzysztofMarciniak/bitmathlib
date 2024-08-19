@@ -2,8 +2,7 @@
 
 to use just inlcude:
 
-```
-c++
+```c++
 #include "bitmathlib.h"
 ```
 
@@ -11,8 +10,7 @@ c++
 Example usage:
 
 
-```
-c++
+```c++
 #include "bitmathlib.h"
 #include <iostream>
 
